@@ -1,0 +1,28 @@
+
+.container {
+    text-align:;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.description {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.link {
+    color: #0070f3;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+
+
+
